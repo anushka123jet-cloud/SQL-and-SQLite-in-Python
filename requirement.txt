@@ -1,0 +1,2 @@
+# No external Python packages required.
+# sqlite3 is included with the Python standard library.
